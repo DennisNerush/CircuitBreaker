@@ -1,0 +1,8 @@
+D:\Projects\HelloWorld\CircuitBreaker\CircuitBreaker\bin\Debug\CircuitBreaker.dll
+D:\Projects\HelloWorld\CircuitBreaker\CircuitBreaker\bin\Debug\CircuitBreaker.pdb
+D:\Projects\HelloWorld\CircuitBreaker\CircuitBreaker\bin\Debug\Polly.dll
+D:\Projects\HelloWorld\CircuitBreaker\CircuitBreaker\bin\Debug\Polly.pdb
+D:\Projects\HelloWorld\CircuitBreaker\CircuitBreaker\bin\Debug\Polly.xml
+D:\Projects\HelloWorld\CircuitBreaker\CircuitBreaker\obj\Debug\CircuitBreaker.csprojResolveAssemblyReference.cache
+D:\Projects\HelloWorld\CircuitBreaker\CircuitBreaker\obj\Debug\CircuitBreaker.dll
+D:\Projects\HelloWorld\CircuitBreaker\CircuitBreaker\obj\Debug\CircuitBreaker.pdb
